@@ -17,3 +17,9 @@
 </div>
 
 <a href="https://cytonjomo.netlify.app/" target="_blank">visit project</a>
+
+<h3>Installation instruction</h3>
+  
+  <li>clone repo</li>
+  <li>npm install</li>
+  <li>npm run dev</li>
