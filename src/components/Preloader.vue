@@ -3,7 +3,7 @@
        
          <div class="loading">
            
-            <img width="300" src="../assets/Spin-Preloader-1 (1).gif" />
+            <img width="300" src="../../public/spinner.gif" />
         </div>
     </section>
 </template>
